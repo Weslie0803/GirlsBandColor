@@ -1,0 +1,7 @@
+popipa  = "#FF3377"
+popipa2 = "#FFDDEE"
+kasumi  = "#FF5522"
+otae    = "#0077DD"
+rimi    = "#FF55BB"
+saaya   = "#FFCC11"
+arisa   = "#AA66DD"

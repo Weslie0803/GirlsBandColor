@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "GirlsBandColor"
+version = "0.1.0"
+authors = [
+  { name="Weslie0803", email="weslie0803@126.com" },
+]
+description = "GirlsBandColor: A package for using colors of girls bands in Matplotlib."
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/weslie0803/GirlsBandColor"
+"Bug Tracker" = "https://github.com/weslie0803/GirlsBandColor/issues"
+
+[tool.setuptools]
+packages = ["gbcolor"]
+package-dir = {"" = "src"}

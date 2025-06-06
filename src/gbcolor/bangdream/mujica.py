@@ -1,0 +1,6 @@
+mujica     = "#881144"
+doloris    = "#BB9955"
+mortis     = "#779977"
+timoris    = "#335566"
+amoris     = "#AA4477"
+oblivionis = "#7799CC"

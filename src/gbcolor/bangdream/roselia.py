@@ -1,0 +1,7 @@
+roselia  = "#3344AA"
+roselia2 = "#DDDDFF"
+yukina   = "#881188"
+sayo     = "#00AABB"
+lisa     = "#DD2200"
+ako      = "#DD0088"
+rinko    = "#BBBBBB"
