@@ -40,4 +40,4 @@ Full demostration lies in `demo.ipynb`：
 
 ## Color List
 
-[Here](colorlist.md)
+[Here](doc/colorlist.md)
