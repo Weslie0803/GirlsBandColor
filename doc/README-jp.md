@@ -37,7 +37,7 @@ plt.plot(x, line_tomori, color=tomori, label='Tomori', linewidth=1)
 ```
 
 完全な使用例は `demo.ipynb` を参照:
-![](../img/Mayou_Uta_plot.png)
+![](../img/Mayoi_Uta.png)
 
 ## カラー一覧
 

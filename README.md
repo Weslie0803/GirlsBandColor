@@ -36,7 +36,7 @@ plt.plot(x, line_tomori, color=tomori, label='Tomori', linewidth=1)
 ```
 
 Full demostration lies in `demo.ipynb`：
-![](img/Mayou_Uta_plot.png)
+![](img/Mayoi_Uta.png)
 
 ## Color List
 
